@@ -18,7 +18,6 @@ public class CustomersController : ControllerBase
     }
     
     // GET: api/<CustomersController>
-    [HttpGet]
     //public ActionResult<IEnumerable<CustomerModel>> Get()
     //{
     //    var output = _data.GetAll();
