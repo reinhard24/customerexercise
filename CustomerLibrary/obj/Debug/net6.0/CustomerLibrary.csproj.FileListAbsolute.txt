@@ -1,0 +1,12 @@
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\bin\Debug\net6.0\CustomerLibrary.deps.json
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\bin\Debug\net6.0\CustomerLibrary.dll
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\bin\Debug\net6.0\CustomerLibrary.pdb
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.dll
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\refint\CustomerLibrary.dll
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\CustomerLibrary.pdb
+C:\ProgrammingFiles\C#\practice-files\cus\CustomerLibraryApp\CustomerLibrary\obj\Debug\net6.0\ref\CustomerLibrary.dll
